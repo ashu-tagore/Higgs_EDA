@@ -22,8 +22,11 @@ data/raw/*.csv
 data/raw/*.gz
 data/raw/*.h5
 data/raw/*.parquet
+notebooks/data/raw/*.csv
+notebooks/data/raw/*.gz
 *.csv
 *.h5
+*.gz
 
 # UV
 uv.lock
